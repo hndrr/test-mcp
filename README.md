@@ -1,2 +1,1 @@
-# test-mcp
-Test repository for MCP
+github-mcp-server
